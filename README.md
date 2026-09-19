@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Khang 👋
 
-<!--
-**lephuckhang186/lephuckhang186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at VNUHCM - University of Science in Ho Chi Minh City, working toward a career in AI/ML engineering.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and software engineering fundamentals
+- Machine learning and statistics
+- Information retrieval and AI applications
+
+I'm interested in AI/ML internship opportunities where I can contribute, learn from experienced engineers, and grow through real-world work.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/lephuckhang2006/) · [Email](mailto:lekhangphuc186@gmail.com)
